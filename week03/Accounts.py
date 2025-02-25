@@ -1,4 +1,4 @@
-# Account.py
+# Accounts.py
 # Author Michal Gondek
 
 # Input Account Number and Show Only Last 4 Digits
