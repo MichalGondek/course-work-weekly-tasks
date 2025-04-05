@@ -1,0 +1,6 @@
+116960
+eeeee
+sys.argvistheeasiestforasimpleusease
+3 answers
+Top answe
+I would use sys.argv. import sys filename = sys.argv[1] sys.argv will be a list o
